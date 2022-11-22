@@ -97,7 +97,5 @@ for (let totalWin = 0; totalWin < 5; totalWin++) {
     ) {
         computerWin++;
         console.log("Computer wins: " + computerWin);
-    } else {
-        console.log("Draw!");
     }
 }
